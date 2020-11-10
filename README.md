@@ -26,7 +26,7 @@
 
 <h3>🖼 Layout</h3>
 <h4>Janela inicial</h4>
-<img src="./Be the Hero/Captura de tela 2020-11-05 165037.png">
+<img src="./Be The Hero/Captura de tela 2020-11-05 165037.png">
 <br/>
 <h4>Janela de Casos/Mapa</h4>
 <img src="./Be The Hero/Captura de tela 2020-11-05 165311.png">
